@@ -1,5 +1,8 @@
 console.log("Hello Cybersoft");
 
+function themNguoiDung(){
+  console.log("hmhoang themNguoiDung");
+}
 /**
  * Biến
  */
